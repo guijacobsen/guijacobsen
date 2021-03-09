@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Guilherme Jacobsen...
+
+#
+
+Full Stack Developer, I have always worked with a greater focus on the front-end.
+
+Currently I seek to deeply explore the back-end world, improving my knowledge and pursuing new ones.
+
+<br />
+
+[<img alt="LinkedIn" width="20px" height="20px" src="https://github.com/guijacobsen/guijacobsen/blob/main/assets/icon-linkedin.png" />](https://www.linkedin.com/in/guilherme-jacobsen-0b105996/)
 
 <!--
 **guijacobsen/guijacobsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
